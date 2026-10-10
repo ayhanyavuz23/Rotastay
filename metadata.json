@@ -1,0 +1,7 @@
+{
+  "name": "RotaStay - Lüks & Butik Otel Rezervasyonu",
+  "description": "Türkiye'nin seçkin butik, resort ve şehir otellerinde şeffaf fiyatlandırma ve anında onaylı rezervasyon deneyimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
